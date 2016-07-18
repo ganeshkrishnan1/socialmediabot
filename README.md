@@ -37,13 +37,13 @@ MIT
 
 Our automated postings are on
 
-[Facebook](www.facebook.com/wikibackpacker)
+[Facebook](http://www.facebook.com/wikibackpacker)
 
-[Twitter](www.twitter.com/wikibackpacker)
+[Twitter](http://www.twitter.com/wikibackpacker)
 
 [Google+](https://plus.google.com/b/104257227793890800020/104257227793890800020)
 
-[Instagram](instagram.com/wikibackpacker/)
+[Instagram](http://www.instagram.com/wikibackpacker/)
 
 [linkedin](https://www.linkedin.com/company/7957818)
 
