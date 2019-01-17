@@ -50,7 +50,7 @@ Our automated postings are on
 
 
 
-Detailed Blog  at :[http://blog.wikinomad.com/2016/07/social-media-bot-with-deep-learning.html](http://blog.wikibackpacker.com/2016/07/social-media-bot-with-deep-learning.html)
+Detailed Blog  at :[http://blog.wikinomad.com/2016/07/social-media-bot-with-deep-learning.html](http://blog.wikinomad.com/2016/07/social-media-bot-with-deep-learning.html)
 
 A breakdown of what this bot does:
 
